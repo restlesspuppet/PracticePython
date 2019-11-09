@@ -4,7 +4,7 @@
 # 11-9-19
 ###############
 
-num = int(input("Enter a numbr: "))
+num = int(input("Enter a number: "))
 i = 1
 l = []
 while i <= num:
